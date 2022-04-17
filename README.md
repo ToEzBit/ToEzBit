@@ -38,10 +38,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p >
+<p align="center">>
 <a href="https://github.com/ToEzBit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToEzBit&theme=aura&show_icons=true" />
-  <img height="180em" width = "48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToEzBit&theme=aura&layout=compact" align="right" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ToEzBit&theme=aura&show_icons=true" />
+  <img height="170em" width = "48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToEzBit&theme=aura&layout=compact"/>
 </a>
 </p>
 
