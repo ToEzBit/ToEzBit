@@ -1,10 +1,4 @@
-<style>
-	.font {
-    color:red;
-	}
-</style>
-
-<h2 class="font">👋  Hey there! I'm Jirayut.</h2>
+<h2 >👋  Hey there! I'm Jirayut.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
