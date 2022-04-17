@@ -1,5 +1,10 @@
+<style>
+	.font {
+    color:red;
+	}
+</style>
 
-<h2>👋  Hey there! I'm Jirayut.</h2>
+<h2 class="font">👋  Hey there! I'm Jirayut.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -51,4 +56,6 @@
 <a href="https://www.linkedin.com/in/jirayut-natrachart-367915199"/><img alt="LinkedIn" src="https://img.shields.io/badge/Jirayut-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/iamjirayut/"><img alt="Instagram" src="https://img.shields.io/badge/iamjirayut-white?style=flat-square&logo=instagram"></a>
 </p>
+
+
 
