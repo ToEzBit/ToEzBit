@@ -1,4 +1,4 @@
-<img src="https://github.com/ToEzBit/ToEzBit/blob/main/pexels-markus-spiske-965345.jpg">
+
 ### Hi there 👋
 
 <!--
