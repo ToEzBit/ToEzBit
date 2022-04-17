@@ -1,4 +1,4 @@
-<h2 >👋  Hey there! I'm Jirayut.</h2>
+<h2 color="red">👋  Hey there! I'm Jirayut.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
