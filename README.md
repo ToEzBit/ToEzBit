@@ -25,9 +25,9 @@
 
 
 </td>
-<td style="background-color:white;width:50%;border:solid white">
+<td width="50%" style="background-color:white;width:50%;border:solid white">
 
-<img  width="50%" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
+<img   src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
 </td>
 </table>
  
