@@ -9,7 +9,7 @@
 
 <table>
 <tr><h3> 🛠 &nbsp;Tech Stack</h3></tr>
-<td background="white" border="solid white" style="background-color:white;border:solid white;">
+<td width="50%" background="white" border="solid white" style="background-color:white;border:solid white;">
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
