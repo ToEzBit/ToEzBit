@@ -48,7 +48,7 @@
 
 <p>
 <a href="https://www.facebook.com/100007751956655"><img src="https://img.shields.io/badge/-Jirayut Natrachart-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href=""https://www.linkedin.com/in/jirayut-natrachart-367915199/><img alt="LinkedIn" src="https://img.shields.io/badge/Jirayut-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jirayut-natrachart-367915199"/><img alt="LinkedIn" src="https://img.shields.io/badge/Jirayut-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/iamjirayut/"><img alt="Instagram" src="https://img.shields.io/badge/iamjirayut-white?style=flat-square&logo=instagram"></a>
 </p>
 
