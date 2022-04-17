@@ -9,7 +9,7 @@
 
 <table>
 <tr><h3> 🛠 &nbsp;Tech Stack</h3></tr>
-<td background-color="white" border="solid white" style="background-color:white;border:solid white;">
+<td background="white" border="solid white" style="background-color:white;border:solid white;">
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -25,7 +25,7 @@
 
 
 </td>
-<td width="50%" background-color="white" border="solid white">
+<td width="50%" background="white" border="solid white">
 
 <img src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
 </td>
