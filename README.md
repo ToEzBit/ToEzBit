@@ -1,4 +1,4 @@
-<h2 >👋  Hey there! I'm Jirayut.<style>color:"red";margin:"150px"</style> </h2>
+<h2 <style>color:"red";margin:"150px"</style>>👋  Hey there! I'm Jirayut.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
