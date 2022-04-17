@@ -13,8 +13,6 @@
    <img width="30%" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif" align="right" >
    <br>
    <br>
-   <br>
-   <br>
    
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -28,10 +26,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
   
- 
-
-<br>
-<br>
 <br>
 <br>
 
