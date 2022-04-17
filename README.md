@@ -1,4 +1,4 @@
-<h2 color="red">👋  Hey there! I'm Jirayut.</h2>
+<h2 >👋  Hey there! I'm Jirayut.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -27,7 +27,7 @@
 </td>
 <td style="background-color:white;width:50%;border:solid white">
 
-<img  src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
+<img  width="50%" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
 </td>
 </table>
  
