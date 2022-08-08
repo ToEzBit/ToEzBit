@@ -10,7 +10,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-   <img width="30%" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif" align="right" >
+   <img width="30%" src="https://i.giphy.com/media/UtcBRO8cxulRzkrVLc/giphy.webp" align="right" >
    <br>
    <br>
    
